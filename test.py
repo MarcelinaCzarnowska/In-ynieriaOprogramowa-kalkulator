@@ -3,8 +3,7 @@ def hello(name):
          return "Hello" + str(name)
 
 def dodaj(a,b):
-         wynik = float(a) + float(b)
-         return wynik
+         return float(a) + float(b)
 
 pierwsza = input()
 druga = input()
